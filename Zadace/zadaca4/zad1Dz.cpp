@@ -16,7 +16,8 @@ int main()
 {
     std::list<int> l;
     int x;
-    //  std::function<bool(int, int)> lambda = [](int a, int b)
+    
+    // std::function<bool(int, int)> lambda = [](int a, int b)
     // {
     //     return a > b;
     // };
