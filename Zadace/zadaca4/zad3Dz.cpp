@@ -2,7 +2,7 @@
 #include <vector>
 #include <iostream>
 
-// void print(std::ranges::common_range auto &container)
+//  void print(std::ranges::common_range auto &container)
 // {
 //     for (auto e : container)
 //     {
